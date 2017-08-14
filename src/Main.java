@@ -16,7 +16,7 @@ public class Main {
         l.add("lzh");
         l.add(null);
         System.out.println("");
-         CompletableFuture<String> a= CompletableFuture.completedFuture("aaa");
+
 
 
         Collections.synchronizedList(l);
