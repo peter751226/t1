@@ -15,7 +15,7 @@ public class Main {
         l.add("abbc");
         l.add("lzh");
         l.add(null);
-        System.out.println("");
+
 
 
 
